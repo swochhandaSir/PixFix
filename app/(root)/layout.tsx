@@ -1,6 +1,6 @@
 import React from 'react'
 import "../globals.css";
-import Sidebar from '@/components/shared/sidebar'
+import Sidebar from '@/components/shared/Sidebar';
 import MobileNav from '@/components/shared/MobileNav';
 
 const Layout = ({ children }: {children: React.ReactNode }) => {
